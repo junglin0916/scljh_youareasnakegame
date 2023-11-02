@@ -12,7 +12,7 @@ let label = "waiting...";
 
 // The classifier
 let classifier;
-let modelURL = 'https://teachablemachine.withgoogle.com/models/0oYcCWoSV/';
+let modelURL = 'https://teachablemachine.withgoogle.com/models/g0x2_QgiB/';
 
 // STEP 1: Load the model!
 function preload() {
