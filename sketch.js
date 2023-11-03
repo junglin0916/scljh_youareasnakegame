@@ -41,7 +41,7 @@ function setup() {
   // Snake Game
   w = floor(width / rez);
   h = floor(height / rez);
-  frameRate(5);
+  frameRate(2);
   snake = new Snake();
   foodLocation();
 }
